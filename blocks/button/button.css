@@ -1,0 +1,10 @@
+.button.secondary a {
+    background-color: rgb(244, 211, 149);
+    color: black;
+    border: 2px solid black;
+}
+
+.button.tertiary a {
+    background-color:white;
+    color: blue;
+}
